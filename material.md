@@ -68,3 +68,19 @@ Lab 3: **Generating regression data, fitting it, training, and testing**
 Lecture 6: **Risk, AIC, Info. Theory**
 
 [Slides and Notes](lectures/lecture6.html)
+
+Lecture 7: **From Entropy to Bayes**
+
+[Slides and Notes](lectures/lecture7.html)
+
+Lab 4: **Bayesian Quantities in the Globe Model**
+
+[Material](lectures/lab4.html)
+
+---
+
+### Week 5
+
+Lecture 8: **Bayes and Sampling"
+
+[Slides and Notes](lectures/lecture8.html)
