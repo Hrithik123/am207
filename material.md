@@ -144,3 +144,27 @@ Lab 8: **EM and Hierarchicals**
 Lecture 15: **MCMC**
 
 [Slides and Notes](lectures/lecture15.html)
+
+Lecture 16: **MCMC and Gibbs**
+
+[Slides and Notes](lectures/lecture16.html)
+
+Lab9: **Sampling and Pymc3**
+
+[Material](lectures/lab9.html)
+
+---
+
+### Week10 
+
+Lecture 17: **Gibbs, Augmentation, and HMC**
+
+[Slides and Notes](lectures/lecture17.html)
+
+Lecture 18: **HMC, and Formal tests**
+
+[Slides and Notes](lectures/lecture18.html)
+
+Lab10: **Jacobians and Tumors**
+
+[Material](lectures/lab10.html)
