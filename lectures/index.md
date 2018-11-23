@@ -32,3 +32,7 @@ layout: "default"
 - [Lecture 17](lecture17.html): Data Augmentation, Gibbs, and HMC
 - [Lecture 18](lecture18.html): HMC, and Formal tests
 - [Lab 10](lab10.html): Jacobians and Tumors
+- [Lecture 19](lecture19.html): NUTS, Formal tests, and Hierarchicals
+- [Lecture 20](lecture20.html): Regression, GLMs, and model specification
+- [Lab 11](lab11.html): Gelman Schools Hierarchical and Prosocial Chimps GLM
+- [Lecture 21](lecture21.html): From Hierarchical GLMs to Gaussian Processes

@@ -168,3 +168,27 @@ Lecture 18: **HMC, and Formal tests**
 Lab10: **Jacobians and Tumors**
 
 [Material](lectures/lab10.html)
+
+---
+
+### Week11
+
+Lecture 19: **NUTS, Formal tests, and Hierarchicals**
+
+[Slides and Notes](lectures/lecture19.html)
+
+Lecture 20: **Regression, GLMs, and model specification**
+
+[Slides and Notes](lectures/lecture20.html)
+
+Lab11: **Gelman Schools Hierarchical and Prosocial Chimps GLM**
+
+[Material](lectures/lab11.html)
+
+---
+
+### Week 12
+
+Lecture 21: **From Hierarchical GLMs to Gaussian Processes**
+
+[Slides and Notes](lectures/lecture21.html)
